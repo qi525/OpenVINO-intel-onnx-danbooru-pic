@@ -1,0 +1,10 @@
+# 在下方添加要处理的图片目录路径，每行一个
+# 例如:
+# C:\stable-diffusion-webui-reForge\outputs\txt2img-images\2026-04-14
+# C:\stable-diffusion-webui-reForge\outputs\txt2img-images\2026-04-12
+# C:\stable-diffusion-webui-reForge\outputs\txt2img-images\2026-04-13
+# C:\stable-diffusion-webui-reForge\outputs\txt2img-images\2026-04-15
+# C:\stable-diffusion-webui-reForge\outputs\txt2img-images\历史
+# # \\Snownas\g\novelai跑图
+\\Snownas\J\馒头 精选\末世孤雄\末世孤雄CG
+# 不要删除这些注释行3
